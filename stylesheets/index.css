@@ -1,0 +1,50 @@
+body{
+	margin:0;
+	background: url('../images/222.png');
+}
+/*#bg{
+	width: 640px;
+    height: 640px;
+    padding: 10px 40px;
+    margin: 0px auto;
+	background: url('../images/4.png');
+
+}*/
+#biankuang{
+	    width: 710px;
+    height: 710px;
+    /* padding: 40px; */
+    background: #260600;
+    margin: 25px 4px 0 346px;
+    border-radius: 25px;
+    /* background: url('../images/2.jpg'); */
+    box-shadow: 0 0 40px black;
+    -webkit-transform: scale(0.8);
+}
+#sence{
+	width: 700px;
+    height: 700px;
+    /* border-left: 1px solid black; */
+    /* border-top: 1px solid black; */
+    margin: 0px auto;
+    background: #997e5c;
+    position: relative;
+    box-shadow: 0 0 40px black inset;
+    border-radius: 10px;
+    background: url('../images/1.jpg');
+}
+.block{
+	/*background: white;*/
+	margin:0 1px 1px 0;
+	float:left;
+	border-radius:50%;
+	position:relative;
+	z-index:30;
+	-webkit-transform:scale(0.8);
+}
+/*.bai{
+	background: url('../images/bai.jpg') no-repeat 5px 0;
+}
+.hei{
+	background: url('../images/hei.jpg') no-repeat 5px 0;
+}*/
